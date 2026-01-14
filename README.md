@@ -15,7 +15,7 @@ Geev is a decentralized social platform built on the Stellar blockchain that ena
 ## RESOURCES
 
 - [FIGMA UI KIT](https://www.figma.com/design/bx1z49rPLAXSsUSlQ03ElA/Geev-App?node-id=6-192&t=a3DcI1rqYjGvbhBd-0)
-- [FIGMA UI PROTOTYPE](https://www.figma.com/design/bx1z49rPLAXSsUSlQ03ElA/Geev-App?node-id=0-1&p=f&t=a3DcI1rqYjGvbhBd-0)
+- [APP PROTOTYPE (FIGMA)](https://www.figma.com/proto/bx1z49rPLAXSsUSlQ03ElA/Geev-App?node-id=6-192&t=Sk47E3cbSLVg2zcA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A192&show-proto-sidebar=1)
 - [PROJECT SUMMARY](https://docs.google.com/document/d/1ZEfrbVF_rjJ3GrLYeTxTboRL15dT0kaVyioXrdPpmMU)
 - [FEATURE SPECIFICATIONS](https://docs.google.com/document/d/1qRyFhhAqBgZU8NtrVmMk6HV2qSi0nb_K3sxrgPaKymI)
 
